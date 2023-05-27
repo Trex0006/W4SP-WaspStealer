@@ -1,7 +1,7 @@
 # W4SP-WaspStealer
 Original Wasp Source! 
 
-                          🤖 Futures
+     🤖 Futures
 - Startup
 
 - Grab Discord Token, Phone Number, E-mail and HQ Friends.
@@ -12,18 +12,18 @@ Original Wasp Source!
 
 - Grab specific files
 
-                            ⬇️ Setup
+      ⬇️ Setup
 
                                                   
 - first open `requirements.bat`
 
 - Insert discord webhook on Ln 23 hook = "x"
 
-                             🖼️ Pictures
+      🖼️ Pictures
 
 <div align="center">
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/yk5dfbK/Screenshot-2023-05-27-131935.png"></img> 
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/yk5dfbK/Screenshot-2023-05-27-131935.png"></img>
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/ccjxbpn/Screenshot-2023-05-27-132254.png"></img>
    
  
 </div>
