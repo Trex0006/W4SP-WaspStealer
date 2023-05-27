@@ -16,9 +16,9 @@ Original Wasp Source!
 ⬇️ Setup
 
                                                   
-- first open `requirements.bat`
+- first launch `requirements.bat`
 
-- Insert discord webhook on Ln 23 hook = "x"
+- Insert discord webhook on Ln 23 hook = "x" in 'wasp.py'
 
 🖼️ Pictures
 
