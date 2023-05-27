@@ -22,7 +22,7 @@ Original Wasp Source!
       🖼️ Pictures
 
 <div align="center">
-    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/yk5dfbK/Screenshot-2023-05-27-131935.png"></img> 
+    <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src=""></img> 
     <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://i.ibb.co/ccjxbpn/Screenshot-2023-05-27-132254.png"></img>
    
  
